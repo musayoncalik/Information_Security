@@ -75,8 +75,9 @@ Information_Security/
 ├── README.md      # Proje dokümantasyonu
 └── .gitignore
 .
-
+```
 📝 Çalışma Konuları ve Detaylar
+```
 Bu repo kapsamında ele alınan başlıca konular:
 
 🔹 Bilgi Güvenliği Temelleri
