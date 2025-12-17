@@ -116,12 +116,11 @@ Temel güvenli haberleşme kavramları
 
 📌 Not:
 İlerleyen haftalarda bu konular uygulamalı siber güvenlik çalışmaları ile desteklenecektir.
-
+```
 ⚙️ Kurulum ve Çalıştırma
 Bu repo ağırlıklı olarak dokümantasyon ve ders içeriği barındırmaktadır.
 
 1️⃣ Repoyu Klonlayın
-bash
-Copy code
+
 git clone https://github.com/kullaniciadi/Information_Security.git
 cd Information_Security
